@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Elysia</title>
-        <link>http://localhost:1313/en/</link>
+        <link>https://sncm123.github.io/en/</link>
         <description>Recent content on Elysia</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>Elysia</copyright><atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>Elysia</copyright><atom:link href="https://sncm123.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
