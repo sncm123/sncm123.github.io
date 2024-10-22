@@ -15,17 +15,17 @@
                 href="https://sncm123.github.io/"
                 />
   </url><url>
-    <loc>https://sncm123.github.io/p/new/</loc>
-    <lastmod>2024-10-22T08:54:22+08:00</lastmod>
-  </url><url>
     <loc>https://sncm123.github.io/post/</loc>
     <lastmod>2024-10-22T08:54:22+08:00</lastmod>
   </url><url>
-    <loc>https://sncm123.github.io/p/myfirstblog/</loc>
-    <lastmod>2024-10-22T08:21:08+08:00</lastmod>
+    <loc>https://sncm123.github.io/p/%E5%8D%9A%E7%89%A9%E9%A6%86vr%E4%BD%93%E9%AA%8C/</loc>
+    <lastmod>2024-10-22T08:54:22+08:00</lastmod>
+  </url><url>
+    <loc>https://sncm123.github.io/p/%E5%8A%A8%E6%BC%AB%E6%B7%B7%E5%89%AA%E8%A7%86%E9%A2%91/</loc>
+    <lastmod>2024-10-22T08:54:22+08:00</lastmod>
   </url><url>
     <loc>https://sncm123.github.io/categories/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -37,14 +37,14 @@
                 href="https://sncm123.github.io/categories/"
                 />
   </url><url>
+    <loc>https://sncm123.github.io/categories/hugo/</loc>
+    <lastmod>2023-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sncm123.github.io/categories/%E6%95%85%E4%BA%8B/</loc>
+    <lastmod>2023-10-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://sncm123.github.io/p/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sncm123.github.io/categories/test/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sncm123.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sncm123.github.io/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
@@ -90,6 +90,9 @@
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sncm123.github.io/tags/tag-with-whitespaces/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sncm123.github.io/categories/test/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sncm123.github.io/categories/test-with-whitespaces/</loc>
