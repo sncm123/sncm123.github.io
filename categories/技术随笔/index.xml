@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>技术随笔 on Elysia</title>
+        <link>https://sncm123.github.io/categories/%E6%8A%80%E6%9C%AF%E9%9A%8F%E7%AC%94/</link>
+        <description>Recent content in 技术随笔 on Elysia</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Elysia</copyright>
+        <lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sncm123.github.io/categories/%E6%8A%80%E6%9C%AF%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>搭建个人博客的心路历程</title>
+        <link>https://sncm123.github.io/p/test-chinese/</link>
+        <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://sncm123.github.io/p/test-chinese/</guid>
+        <description>&lt;img src="https://sncm123.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post 搭建个人博客的心路历程" /&gt;&lt;h2 id=&#34;为什么选择搭建个人博客&#34;&gt;为什么选择搭建个人博客？
+&lt;/h2&gt;&lt;p&gt;在这个信息爆炸的时代，虽然各类自媒体平台层出不穷，但我依然选择了搭建个人博客。这不仅仅是一时兴起，更是对个人成长的一种投资。&lt;/p&gt;
+&lt;h3 id=&#34;自由与掌控&#34;&gt;自由与掌控
+&lt;/h3&gt;&lt;p&gt;与主流平台相比，个人博客给予了我完全的自由：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;内容不受平台算法限制&lt;/li&gt;
+&lt;li&gt;可以自由设计网站风格&lt;/li&gt;
+&lt;li&gt;数据完全自主掌控&lt;/li&gt;
+&lt;li&gt;不用担心平台政策变动&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;技术的成长&#34;&gt;技术的成长
+&lt;/h3&gt;&lt;p&gt;搭建博客的过程，也是技术学习的过程：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;学习前端开发基础&lt;/li&gt;
+&lt;li&gt;了解服务器部署&lt;/li&gt;
+&lt;li&gt;掌握版本控制&lt;/li&gt;
+&lt;li&gt;提升编程能力&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;博客搭建历程&#34;&gt;博客搭建历程
+&lt;/h2&gt;&lt;h3 id=&#34;技术选型&#34;&gt;技术选型
+&lt;/h3&gt;&lt;p&gt;最终我选择了Hugo作为博客框架，原因是：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;生成速度快&lt;/li&gt;
+&lt;li&gt;配置简单&lt;/li&gt;
+&lt;li&gt;主题丰富&lt;/li&gt;
+&lt;li&gt;维护方便&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;遇到的挑战&#34;&gt;遇到的挑战
+&lt;/h3&gt;&lt;p&gt;在搭建过程中也遇到了不少问题：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Markdown语法的学习&lt;/li&gt;
+&lt;li&gt;主题的个性化定制&lt;/li&gt;
+&lt;li&gt;图片资源的管理&lt;/li&gt;
+&lt;li&gt;部署环境的配置&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;未来计划&#34;&gt;未来计划
+&lt;/h2&gt;&lt;h3 id=&#34;内容建设&#34;&gt;内容建设
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;技术文章分享&lt;/li&gt;
+&lt;li&gt;学习心得记录&lt;/li&gt;
+&lt;li&gt;生活随笔创作&lt;/li&gt;
+&lt;li&gt;项目经验总结&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;功能完善&#34;&gt;功能完善
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;评论系统优化&lt;/li&gt;
+&lt;li&gt;搜索功能添加&lt;/li&gt;
+&lt;li&gt;订阅功能实现&lt;/li&gt;
+&lt;li&gt;移动端适配&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;图片展示&#34;&gt;图片展示
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://sncm123.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg&#34;
+	width=&#34;1000&#34;
+	height=&#34;750&#34;
+	srcset=&#34;https://sncm123.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu8363585391189779282.jpg 480w, https://sncm123.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu15102473124145023839.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;网站首页截图&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;技术分享&#34;&gt;技术分享
+&lt;/h2&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;// Hugo配置示例
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;baseURL&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;https&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;//example.org/&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;languageCode&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;zh&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;cn&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nx&#34;&gt;title&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;我的博客&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;params&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;nx&#34;&gt;author&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;博主&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;nx&#34;&gt;description&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;分享技术与生活&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;写在最后&#34;&gt;写在最后
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;独立博客不仅是一个展示平台，更是一片属于自己的天地。在这里，我可以自由地表达思想，记录成长，与志同道合的朋友交流。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;期待与大家在博客上相遇，共同进步！&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

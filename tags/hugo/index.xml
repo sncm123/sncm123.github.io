@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Hugo on Elysia</title>
+        <link>https://sncm123.github.io/tags/hugo/</link>
+        <description>Recent content in Hugo on Elysia</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Elysia</copyright>
+        <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://sncm123.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hugo中的表情符号使用指南</title>
+        <link>https://sncm123.github.io/p/hugo%E4%B8%AD%E7%9A%84%E8%A1%A8%E6%83%85%E7%AC%A6%E5%8F%B7%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</link>
+        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://sncm123.github.io/p/hugo%E4%B8%AD%E7%9A%84%E8%A1%A8%E6%83%85%E7%AC%A6%E5%8F%B7%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</guid>
+        <description>&lt;img src="https://sncm123.github.io/p/hugo%E4%B8%AD%E7%9A%84%E8%A1%A8%E6%83%85%E7%AC%A6%E5%8F%B7%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Hugo中的表情符号使用指南" /&gt;&lt;p&gt;表情符号已经成为现代网络交流中不可或缺的一部分。在Hugo中，我们有多种方式来启用和使用表情符号。&lt;/p&gt;
+&lt;h2 id=&#34;启用方式&#34;&gt;启用方式
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;全局配置&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在站点配置文件中设置 &lt;code&gt;enableEmoji = true&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;直接在内容中使用emoji短代码&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;模板函数&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;使用 &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/functions/emojify/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; 函数&lt;/li&gt;
+&lt;li&gt;可在模板或&lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;内联短代码&lt;/a&gt;中调用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;常用表情示例&#34;&gt;常用表情示例
+&lt;/h2&gt;&lt;p&gt;&lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙈&lt;/span&gt; &lt;code&gt;:see_no_evil:&lt;/code&gt;&lt;/span&gt;  &lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙉&lt;/span&gt; &lt;code&gt;:hear_no_evil:&lt;/code&gt;&lt;/span&gt;  &lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙊&lt;/span&gt; &lt;code&gt;:speak_no_evil:&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更多实用表情&#34;&gt;更多实用表情
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;写作灵感：✍️ &lt;code&gt;:writing_hand:&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;技术相关：💻 &lt;code&gt;:computer:&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;完成任务：✅ &lt;code&gt;:white_check_mark:&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;重要提示：⚠️ &lt;code&gt;:warning:&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;新想法：💡 &lt;code&gt;:bulb:&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;样式设置&#34;&gt;样式设置
+&lt;/h2&gt;&lt;p&gt;为了确保表情符号在各个平台上显示一致，建议设置合适的字体栈：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;emoji&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;font-family&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Apple&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Color&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Emoji&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              &lt;span class=&#34;n&#34;&gt;Segoe&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;UI&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Emoji&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              &lt;span class=&#34;n&#34;&gt;NotoColorEmoji&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              &lt;span class=&#34;n&#34;&gt;Segoe&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;UI&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Symbol&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              &lt;span class=&#34;n&#34;&gt;Android&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Emoji&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              &lt;span class=&#34;n&#34;&gt;EmojiSymbols&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;使用建议&#34;&gt;使用建议
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;适度使用&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;不要过度使用表情符号&lt;/li&gt;
+&lt;li&gt;确保表情符号与内容相关&lt;/li&gt;
+&lt;li&gt;保持专业性&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;注意场合&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;技术文档中谨慎使用&lt;/li&gt;
+&lt;li&gt;轻松话题可以多用一些&lt;/li&gt;
+&lt;li&gt;考虑读者群体&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;兼容性&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;测试不同设备的显示效果&lt;/li&gt;
+&lt;li&gt;准备替代方案&lt;/li&gt;
+&lt;li&gt;关注更新和变化&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;实用资源&#34;&gt;实用资源
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://www.emoji-cheat-sheet.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Emoji速查表&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://unicode.org/emoji/charts/full-emoji-list.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Unicode Emoji列表&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://emojipedia.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Emojipedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+        </item>
+        
+    </channel>
+</rss>

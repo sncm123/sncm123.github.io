@@ -21,7 +21,71 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://sncm123.github.io/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
+        <description>&lt;h2 id=&#34;个人简介&#34;&gt;个人简介
+&lt;/h2&gt;&lt;p&gt;你好！我是一名热爱技术的开发者，同时也是一个内容创作者。在这个博客空间里，我会分享我的技术心得、创作经验和生活感悟。&lt;/p&gt;
+&lt;h3 id=&#34;技术栈&#34;&gt;技术栈
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;前端开发：HTML5, CSS3, JavaScript, Vue.js&lt;/li&gt;
+&lt;li&gt;后端开发：Python, Node.js&lt;/li&gt;
+&lt;li&gt;其他技能：视频剪辑, 3D建模, VR开发&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;创作领域&#34;&gt;创作领域
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;技术博客写作&lt;/li&gt;
+&lt;li&gt;视频制作与剪辑&lt;/li&gt;
+&lt;li&gt;VR内容开发&lt;/li&gt;
+&lt;li&gt;动画创作&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;博客内容&#34;&gt;博客内容
+&lt;/h2&gt;&lt;p&gt;这个博客主要包含以下几个方面的内容：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;技术分享&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;编程技术教程&lt;/li&gt;
+&lt;li&gt;开发经验总结&lt;/li&gt;
+&lt;li&gt;项目实战分析&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;创意作品&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;视频创作作品&lt;/li&gt;
+&lt;li&gt;VR项目展示&lt;/li&gt;
+&lt;li&gt;动画制作分享&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;学习笔记&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;新技术学习心得&lt;/li&gt;
+&lt;li&gt;读书笔记&lt;/li&gt;
+&lt;li&gt;观点思考&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;联系方式&#34;&gt;联系方式
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Email: 暂不给嘿嘿&lt;/li&gt;
+&lt;li&gt;GitHub: [ 暂不给嘿嘿]&lt;/li&gt;
+&lt;li&gt;微信公众号: [ 暂不给嘿嘿]&lt;/li&gt;
+&lt;li&gt;Bilibili: [ 暂不给嘿嘿]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;支持与交流&#34;&gt;支持与交流
+&lt;/h2&gt;&lt;p&gt;如果你觉得我的内容对你有帮助，欢迎：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在文章下方评论交流&lt;/li&gt;
+&lt;li&gt;分享文章给更多的人&lt;/li&gt;
+&lt;li&gt;关注我的社交媒体账号&lt;/li&gt;
+&lt;li&gt;通过邮件与我深入交流&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;版权说明&#34;&gt;版权说明
+&lt;/h2&gt;&lt;p&gt;除特别注明外，本博客所有文章均采用 &lt;a class=&#34;link&#34; href=&#34;https://creativecommons.org/licenses/by-nc-sa/4.0/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;CC BY-NC-SA 4.0&lt;/a&gt; 许可协议。转载请注明出处！&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;生活不止眼前的代码，还有诗和远方。&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
         </item>
         <item>

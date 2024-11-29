@@ -13,7 +13,50 @@
         <pubDate>Tue, 22 Oct 2024 08:54:22 +0800</pubDate>
         
         <guid>https://sncm123.github.io/p/%E5%8D%9A%E7%89%A9%E9%A6%86vr%E4%BD%93%E9%AA%8C/</guid>
-        <description>&lt;h2 id=&#34;vr演示视频&#34;&gt;VR演示视频
+        <description>&lt;img src="https://sncm123.github.io/p/%E5%8D%9A%E7%89%A9%E9%A6%86vr%E4%BD%93%E9%AA%8C/vr-demo.png" alt="Featured image of post 博物馆VR体验" /&gt;&lt;h2 id=&#34;项目背景&#34;&gt;项目背景
+&lt;/h2&gt;&lt;p&gt;随着虚拟现实(VR)技术的快速发展，越来越多的博物馆开始探索如何运用VR技术来提升参观体验。本项目旨在通过VR技术，让参观者能够以全新的方式感受博物馆藏品的魅力。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://sncm123.github.io/p/%E5%8D%9A%E7%89%A9%E9%A6%86vr%E4%BD%93%E9%AA%8C/vr-demo.png&#34;
+	width=&#34;2559&#34;
+	height=&#34;940&#34;
+	srcset=&#34;https://sncm123.github.io/p/%E5%8D%9A%E7%89%A9%E9%A6%86vr%E4%BD%93%E9%AA%8C/vr-demo_hu762413750283779261.png 480w, https://sncm123.github.io/p/%E5%8D%9A%E7%89%A9%E9%A6%86vr%E4%BD%93%E9%AA%8C/vr-demo_hu14750798551832746929.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;博物馆VR体验效果图&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;272&#34;
+		data-flex-basis=&#34;653px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;主要特点&#34;&gt;主要特点
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;沉浸式体验&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;360度全景观展&lt;/li&gt;
+&lt;li&gt;高清3D文物模型&lt;/li&gt;
+&lt;li&gt;实时交互功能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;教育价值&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;详细的文物解说&lt;/li&gt;
+&lt;li&gt;历史场景还原&lt;/li&gt;
+&lt;li&gt;互动学习模块&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;便捷访问&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;支持多平台&lt;/li&gt;
+&lt;li&gt;远程参观功能&lt;/li&gt;
+&lt;li&gt;无时间地点限制&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;vr演示视频&#34;&gt;VR演示视频
 &lt;/h2&gt;
 &lt;div class=&#34;video-wrapper&#34;&gt;
     &lt;iframe src=&#34;https://v.qq.com/txp/iframe/player.html?vid=x3565qkfsvd&amp;auto=0&#34; 
@@ -24,6 +67,40 @@
     &gt;
     &lt;/iframe&gt;
 &lt;/div&gt;
+&lt;h2 id=&#34;技术实现&#34;&gt;技术实现
+&lt;/h2&gt;&lt;p&gt;本项目采用以下技术栈：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Unity 3D引擎&lt;/li&gt;
+&lt;li&gt;Oculus SDK&lt;/li&gt;
+&lt;li&gt;PhotogramMetry 3D建模&lt;/li&gt;
+&lt;li&gt;WebVR技术&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://sncm123.github.io/technical-arch.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;技术架构图&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;未来展望&#34;&gt;未来展望
+&lt;/h2&gt;&lt;p&gt;我们计划在未来增加更多功能：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;多人协同参观&lt;/li&gt;
+&lt;li&gt;AI讲解员&lt;/li&gt;
+&lt;li&gt;更多互动体验&lt;/li&gt;
+&lt;li&gt;跨馆藏联动展示&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;参与体验&#34;&gt;参与体验
+&lt;/h2&gt;&lt;p&gt;如果您想亲身体验这个VR项目，可以通过以下方式：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在博物馆现场体验区&lt;/li&gt;
+&lt;li&gt;下载我们的VR应用&lt;/li&gt;
+&lt;li&gt;通过网页版预览&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;欢迎通过评论区分享您的体验感受！&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -32,8 +109,13 @@
         <pubDate>Tue, 22 Oct 2024 08:54:22 +0800</pubDate>
         
         <guid>https://sncm123.github.io/p/%E5%8A%A8%E6%BC%AB%E6%B7%B7%E5%89%AA%E8%A7%86%E9%A2%91/</guid>
-        <description>&lt;img src="https://sncm123.github.io/p/%E5%8A%A8%E6%BC%AB%E6%B7%B7%E5%89%AA%E8%A7%86%E9%A2%91/kon.jpg" alt="Featured image of post 动漫混剪视频" /&gt;&lt;h2 id=&#34;小小ae&#34;&gt;小小AE
-&lt;/h2&gt;
+        <description>&lt;img src="https://sncm123.github.io/p/%E5%8A%A8%E6%BC%AB%E6%B7%B7%E5%89%AA%E8%A7%86%E9%A2%91/kon.jpg" alt="Featured image of post 动漫混剪视频" /&gt;&lt;h2 id=&#34;创作理念&#34;&gt;创作理念
+&lt;/h2&gt;&lt;p&gt;在视频创作的过程中，我尝试通过After Effects的各种特效和转场，将不同的动漫片段重新组合，赋予作品新的艺术表现力。每一个作品都代表了我对动漫的理解和对视频创作的热爱。&lt;/p&gt;
+&lt;h2 id=&#34;小小ae初试锋芒&#34;&gt;小小AE：初试锋芒
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;这是我的第一部作品，以轻快的节奏展现青春的活力&lt;/p&gt;
+&lt;/blockquote&gt;
+
 &lt;div class=&#34;video-wrapper&#34;&gt;
     &lt;iframe src=&#34;https://v.qq.com/txp/iframe/player.html?vid=b3565gw943f&amp;auto=0&#34; 
             scrolling=&#34;no&#34; 
@@ -43,8 +125,18 @@
     &gt;
     &lt;/iframe&gt;
 &lt;/div&gt;
-&lt;h2 id=&#34;臻颜至美&#34;&gt;臻颜至美
-&lt;/h2&gt;
+&lt;h3 id=&#34;创作要点&#34;&gt;创作要点
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;运用了多层叠加效果&lt;/li&gt;
+&lt;li&gt;节奏与音乐完美契合&lt;/li&gt;
+&lt;li&gt;加入动态模糊特效&lt;/li&gt;
+&lt;li&gt;色彩调整增强视觉冲击&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;臻颜至美突破自我&#34;&gt;臻颜至美：突破自我
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;第二部作品尝试了更多高级特效，呈现出不一样的视觉体验&lt;/p&gt;
+&lt;/blockquote&gt;
+
 &lt;div class=&#34;video-wrapper&#34;&gt;
     &lt;iframe src=&#34;https://v.qq.com/txp/iframe/player.html?vid=b3565gw943f&amp;auto=0&#34; 
             scrolling=&#34;no&#34; 
@@ -54,261 +146,219 @@
     &gt;
     &lt;/iframe&gt;
 &lt;/div&gt;
+&lt;h3 id=&#34;技术亮点&#34;&gt;技术亮点
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;3D空间摄像机运动&lt;/li&gt;
+&lt;li&gt;粒子特效的综合运用&lt;/li&gt;
+&lt;li&gt;复杂转场效果&lt;/li&gt;
+&lt;li&gt;光效调色的精细处理&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;创作心得&#34;&gt;创作心得
+&lt;/h2&gt;&lt;p&gt;在制作这些视频的过程中，我学到了：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;镜头语言的重要性&lt;/li&gt;
+&lt;li&gt;音乐节奏的把控&lt;/li&gt;
+&lt;li&gt;AE特效的合理使用&lt;/li&gt;
+&lt;li&gt;如何讲好一个视觉故事&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;使用的工具与插件&#34;&gt;使用的工具与插件
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Adobe After Effects 2024&lt;/li&gt;
+&lt;li&gt;Adobe Premiere Pro&lt;/li&gt;
+&lt;li&gt;部分特效插件：
+&lt;ul&gt;
+&lt;li&gt;Trapcode Particular&lt;/li&gt;
+&lt;li&gt;Magic Bullet Looks&lt;/li&gt;
+&lt;li&gt;Twixtor Pro&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;后续计划&#34;&gt;后续计划
+&lt;/h2&gt;&lt;p&gt;未来我将继续创作更多作品，计划尝试：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;更复杂的特效制作&lt;/li&gt;
+&lt;li&gt;新的叙事手法&lt;/li&gt;
+&lt;li&gt;不同风格的音乐配合&lt;/li&gt;
+&lt;li&gt;原创转场效果&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;欢迎大家在评论区留言，分享你的观看感受！&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title>我的第一个博客</title>
+        <title>搭建个人博客的心路历程</title>
         <link>https://sncm123.github.io/p/test-chinese/</link>
         <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
         
         <guid>https://sncm123.github.io/p/test-chinese/</guid>
-        <description>&lt;img src="https://sncm123.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post 我的第一个博客" /&gt;&lt;h2 id=&#34;正文测试&#34;&gt;正文测试
-&lt;/h2&gt;&lt;p&gt;在当今这个信息爆炸的时代，自媒体如雨后春笋般涌现，几乎每个人都可以成为信息的传播者。然而，在这个自媒体盛行的大环境下，我却毅然决定搭建自己的第一个博客网站。这并非一时兴起，而是经过深思熟虑后的选择。&lt;/p&gt;
-&lt;p&gt;自媒体的崛起无疑给人们带来了极大的便利和广阔的表达空间。通过各种自媒体平台，人们可以轻松地分享自己的生活点滴、见解和创意。无论是文字、图片还是视频，都能在瞬间传播到世界各地，吸引大量的关注和互动。自媒体的低门槛使得更多的人有机会展示自己，实现自我价值。同时，自媒体也为企业和品牌提供了新的营销渠道，能够快速有效地推广产品和服务。&lt;/p&gt;
-&lt;p&gt;然而，自媒体也存在一些不可忽视的问题。首先，自媒体平台往往受到商业利益和算法的影响，内容的推荐和展示并不完全取决于质量和价值。为了追求流量和热度，一些自媒体人可能会迎合大众口味，制作一些低质量、博眼球的内容。这不仅降低了整个自媒体生态的质量，也让真正有价值的内容难以脱颖而出。其次，自媒体平台的规则和限制较多，创作者的自由度相对较低。例如，一些平台可能会对内容进行严格审核，甚至删除一些不符合其规定的内容。这对于追求自由创作的人来说，无疑是一种束缚。此外，自媒体平台的稳定性也存在一定的风险。如果平台出现技术故障、政策调整或经营不善等情况，创作者的内容可能会受到影响，甚至面临丢失的风险。&lt;/p&gt;
-&lt;p&gt;相比之下，自建博客具有许多独特的优势。首先，自建博客给予了创作者绝对的自由。在自己的博客网站上，我可以自由地表达自己的观点和想法，不受任何平台规则和算法的限制。我可以根据自己的喜好和需求来设计网站的布局和风格，展示自己的个性和特色。其次，自建博客具有更高的稳定性和安全性。我可以自己选择服务器和域名，确保网站的稳定运行和数据的安全存储。即使出现一些不可预见的情况，我也可以及时采取措施进行修复和备份，不会像在自媒体平台上那样被动。此外，自建博客还可以更好地积累和沉淀自己的作品。在自媒体平台上，内容往往随着时间的推移而被淹没在海量的信息中。而在自己的博客网站上，我可以将自己的作品进行分类整理和长期保存，方便读者随时查阅和回顾。&lt;/p&gt;
-&lt;p&gt;在当下的互联网环境中，人们对于信息的需求越来越多样化和个性化。自媒体虽然能够满足一部分人的需求，但却无法完全满足那些追求深度、专业和自由创作的人的需求。自建博客则为这些人提供了一个理想的平台。通过自建博客，我可以更加专注地创作高质量的内容，吸引真正对我的作品感兴趣的读者。同时，我也可以与读者进行更加深入的交流和互动，建立起更加紧密的联系。&lt;/p&gt;
-&lt;p&gt;我一直以来都秉持着自由创作的理念。我认为，创作应该是一种纯粹的表达，不应该受到过多的束缚和干扰。在自媒体平台上，虽然我也可以发表自己的作品，但总是感觉有一种无形的压力和限制。我担心自己的内容不符合平台的规定，担心被算法埋没，担心得不到足够的关注和认可。而自建博客则让我摆脱了这些顾虑，让我能够真正地享受创作的过程。我可以自由地选择创作的主题和风格，不受任何外界因素的影响。我可以用心地打磨每一篇文章，将自己的思想和情感充分地表达出来。&lt;/p&gt;
-&lt;p&gt;此外，自建博客也是我对互联网未来发展的一种探索和尝试。随着互联网技术的不断进步，人们对于信息的获取和传播方式也在不断发生变化。自媒体平台虽然在当前占据了主导地位，但未来的互联网世界充满了不确定性。自建博客可以让我更加灵活地应对未来的变化，掌握自己的命运。我相信，在未来的互联网世界中，个性化、专业化和自由创作将成为主流趋势。自建博客作为一种独立的信息传播平台，将具有更加广阔的发展前景。&lt;/p&gt;
-&lt;p&gt;总之，在当下自媒体盛行的时代，我选择搭建自己的第一个博客网站，是出于对自由创作的追求，对高质量内容的执着，以及对互联网未来发展的探索。虽然自建博客需要投入更多的时间和精力，但我相信，这是值得的。我期待着在自己的博客网站上，能够与更多的读者分享我的作品，交流我的思想，共同成长和进步。&lt;/p&gt;
-&lt;h2 id=&#34;引用&#34;&gt;引用
-&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;思念是最暖的忧伤像一双翅膀&lt;br&gt;
-让我停不了飞不远在过往游荡&lt;br&gt;
-不告而别的你 就算为了我着想&lt;br&gt;
-这么沉痛的呵护 我怎么能翱翔&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=3aypp_YlBzI&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;最暖的憂傷 - 田馥甄&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;图片&#34;&gt;图片
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://sncm123.github.io/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash.jpg&#34;
-	width=&#34;667&#34;
-	height=&#34;1000&#34;
-	srcset=&#34;https://sncm123.github.io/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu13768363498926278726.jpg 480w, https://sncm123.github.io/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu13380208884366868750.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Photo by Florian Klauer on Unsplash&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;66&#34;
-		data-flex-basis=&#34;160px&#34;
-	
-&gt;  &lt;img src=&#34;https://sncm123.github.io/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;667&#34;
-	srcset=&#34;https://sncm123.github.io/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu1712544344331247820.jpg 480w, https://sncm123.github.io/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu12475395149584884402.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Photo by Luca Bravo on Unsplash&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;149&#34;
-		data-flex-basis=&#34;359px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://sncm123.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg&#34;
+        <description>&lt;img src="https://sncm123.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post 搭建个人博客的心路历程" /&gt;&lt;h2 id=&#34;为什么选择搭建个人博客&#34;&gt;为什么选择搭建个人博客？
+&lt;/h2&gt;&lt;p&gt;在这个信息爆炸的时代，虽然各类自媒体平台层出不穷，但我依然选择了搭建个人博客。这不仅仅是一时兴起，更是对个人成长的一种投资。&lt;/p&gt;
+&lt;h3 id=&#34;自由与掌控&#34;&gt;自由与掌控
+&lt;/h3&gt;&lt;p&gt;与主流平台相比，个人博客给予了我完全的自由：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;内容不受平台算法限制&lt;/li&gt;
+&lt;li&gt;可以自由设计网站风格&lt;/li&gt;
+&lt;li&gt;数据完全自主掌控&lt;/li&gt;
+&lt;li&gt;不用担心平台政策变动&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;技术的成长&#34;&gt;技术的成长
+&lt;/h3&gt;&lt;p&gt;搭建博客的过程，也是技术学习的过程：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;学习前端开发基础&lt;/li&gt;
+&lt;li&gt;了解服务器部署&lt;/li&gt;
+&lt;li&gt;掌握版本控制&lt;/li&gt;
+&lt;li&gt;提升编程能力&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;博客搭建历程&#34;&gt;博客搭建历程
+&lt;/h2&gt;&lt;h3 id=&#34;技术选型&#34;&gt;技术选型
+&lt;/h3&gt;&lt;p&gt;最终我选择了Hugo作为博客框架，原因是：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;生成速度快&lt;/li&gt;
+&lt;li&gt;配置简单&lt;/li&gt;
+&lt;li&gt;主题丰富&lt;/li&gt;
+&lt;li&gt;维护方便&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;遇到的挑战&#34;&gt;遇到的挑战
+&lt;/h3&gt;&lt;p&gt;在搭建过程中也遇到了不少问题：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Markdown语法的学习&lt;/li&gt;
+&lt;li&gt;主题的个性化定制&lt;/li&gt;
+&lt;li&gt;图片资源的管理&lt;/li&gt;
+&lt;li&gt;部署环境的配置&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;未来计划&#34;&gt;未来计划
+&lt;/h2&gt;&lt;h3 id=&#34;内容建设&#34;&gt;内容建设
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;技术文章分享&lt;/li&gt;
+&lt;li&gt;学习心得记录&lt;/li&gt;
+&lt;li&gt;生活随笔创作&lt;/li&gt;
+&lt;li&gt;项目经验总结&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;功能完善&#34;&gt;功能完善
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;评论系统优化&lt;/li&gt;
+&lt;li&gt;搜索功能添加&lt;/li&gt;
+&lt;li&gt;订阅功能实现&lt;/li&gt;
+&lt;li&gt;移动端适配&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;图片展示&#34;&gt;图片展示
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://sncm123.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
 	srcset=&#34;https://sncm123.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu8363585391189779282.jpg 480w, https://sncm123.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu15102473124145023839.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;Photo by Helena Hertz on Unsplash&#34;
+		alt=&#34;网站首页截图&#34;
 	
 	
 		class=&#34;gallery-image&#34; 
 		data-flex-grow=&#34;133&#34;
 		data-flex-basis=&#34;320px&#34;
 	
-&gt;  &lt;img src=&#34;https://sncm123.github.io/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&#34;
-	width=&#34;667&#34;
-	height=&#34;1000&#34;
-	srcset=&#34;https://sncm123.github.io/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu15886963791847885497.jpg 480w, https://sncm123.github.io/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu11726476772237334826.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Photo by Hudai Gayiran on Unsplash&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;66&#34;
-		data-flex-basis=&#34;160px&#34;
-	
 &gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;h2 id=&#34;技术分享&#34;&gt;技术分享
+&lt;/h2&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
 &lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
 &lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
 &lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;![&lt;span class=&#34;nt&#34;&gt;Photo by Florian Klauer on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;florian-klauer-nptLmg6jqDo-unsplash.jpg&lt;/span&gt;)  ![&lt;span class=&#34;nt&#34;&gt;Photo by Luca Bravo on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;luca-bravo-alS7ewQ41M8-unsplash.jpg&lt;/span&gt;) 
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;// Hugo配置示例
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;baseURL&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;https&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;//example.org/&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;languageCode&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;zh&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;cn&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nx&#34;&gt;title&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;我的博客&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;#39;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;![&lt;span class=&#34;nt&#34;&gt;Photo by Helena Hertz on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;helena-hertz-wWZzXlDpMog-unsplash.jpg&lt;/span&gt;)  ![&lt;span class=&#34;nt&#34;&gt;Photo by Hudai Gayiran on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;params&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;nx&#34;&gt;author&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;博主&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;nx&#34;&gt;description&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;分享技术与生活&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;#39;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;相册语法来自 &lt;a class=&#34;link&#34; href=&#34;https://typlog.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Typlog&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;h2 id=&#34;写在最后&#34;&gt;写在最后
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;独立博客不仅是一个展示平台，更是一片属于自己的天地。在这里，我可以自由地表达思想，记录成长，与志同道合的朋友交流。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;期待与大家在博客上相遇，共同进步！&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title>Markdown Syntax Guide</title>
-        <link>https://sncm123.github.io/p/markdown-syntax-guide/</link>
+        <title>Markdown写作指南</title>
+        <link>https://sncm123.github.io/p/markdown%E5%86%99%E4%BD%9C%E6%8C%87%E5%8D%97/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://sncm123.github.io/p/markdown-syntax-guide/</guid>
-        <description>&lt;img src="https://sncm123.github.io/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
-&lt;h2 id=&#34;headings&#34;&gt;Headings
-&lt;/h2&gt;&lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.&lt;/p&gt;
-&lt;h1 id=&#34;h1&#34;&gt;H1
-&lt;/h1&gt;&lt;h2 id=&#34;h2&#34;&gt;H2
-&lt;/h2&gt;&lt;h3 id=&#34;h3&#34;&gt;H3
-&lt;/h3&gt;&lt;h4 id=&#34;h4&#34;&gt;H4
-&lt;/h4&gt;&lt;h5 id=&#34;h5&#34;&gt;H5
-&lt;/h5&gt;&lt;h6 id=&#34;h6&#34;&gt;H6
-&lt;/h6&gt;&lt;h2 id=&#34;paragraph&#34;&gt;Paragraph
-&lt;/h2&gt;&lt;p&gt;Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.&lt;/p&gt;
-&lt;p&gt;Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.&lt;/p&gt;
-&lt;h2 id=&#34;blockquotes&#34;&gt;Blockquotes
-&lt;/h2&gt;&lt;p&gt;The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a &lt;code&gt;footer&lt;/code&gt; or &lt;code&gt;cite&lt;/code&gt; element, and optionally with in-line changes such as annotations and abbreviations.&lt;/p&gt;
-&lt;h4 id=&#34;blockquote-without-attribution&#34;&gt;Blockquote without attribution
-&lt;/h4&gt;&lt;blockquote&gt;
-&lt;p&gt;Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-&lt;strong&gt;Note&lt;/strong&gt; that you can use &lt;em&gt;Markdown syntax&lt;/em&gt; within a blockquote.&lt;/p&gt;
+        <guid>https://sncm123.github.io/p/markdown%E5%86%99%E4%BD%9C%E6%8C%87%E5%8D%97/</guid>
+        <description>&lt;img src="https://sncm123.github.io/p/markdown%E5%86%99%E4%BD%9C%E6%8C%87%E5%8D%97/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown写作指南" /&gt;&lt;p&gt;Markdown是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档。本文将详细介绍Markdown的基本语法和使用技巧。&lt;/p&gt;
+&lt;h2 id=&#34;标题使用&#34;&gt;标题使用
+&lt;/h2&gt;&lt;p&gt;Markdown支持六级标题，分别对应HTML的&lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;到&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt;：&lt;/p&gt;
+&lt;h1 id=&#34;一级标题&#34;&gt;一级标题
+&lt;/h1&gt;&lt;h2 id=&#34;二级标题&#34;&gt;二级标题
+&lt;/h2&gt;&lt;h3 id=&#34;三级标题&#34;&gt;三级标题
+&lt;/h3&gt;&lt;h4 id=&#34;四级标题&#34;&gt;四级标题
+&lt;/h4&gt;&lt;h5 id=&#34;五级标题&#34;&gt;五级标题
+&lt;/h5&gt;&lt;h6 id=&#34;六级标题&#34;&gt;六级标题
+&lt;/h6&gt;&lt;h2 id=&#34;文本格式化&#34;&gt;文本格式化
+&lt;/h2&gt;&lt;h3 id=&#34;基础格式&#34;&gt;基础格式
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;粗体文本&lt;/strong&gt; 使用 &lt;code&gt;**文本**&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;斜体文本&lt;/em&gt; 使用 &lt;code&gt;*文本*&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;删除线&lt;/del&gt; 使用 &lt;code&gt;~~文本~~&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;代码&lt;/code&gt; 使用 &lt;code&gt;`代码`&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;引用示例&#34;&gt;引用示例
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;生活不止眼前的苟且，还有诗和远方的田野。&lt;/p&gt;
+&lt;p&gt;— &lt;cite&gt;韩寒&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h4 id=&#34;blockquote-with-attribution&#34;&gt;Blockquote with attribution
-&lt;/h4&gt;&lt;blockquote&gt;
-&lt;p&gt;Don&amp;rsquo;t communicate by sharing memory, share memory by communicating.&lt;br&gt;
-— &lt;cite&gt;Rob Pike&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;tables&#34;&gt;Tables
-&lt;/h2&gt;&lt;p&gt;Tables aren&amp;rsquo;t part of the core Markdown spec, but Hugo supports supports them out-of-the-box.&lt;/p&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Name&lt;/th&gt;
-          &lt;th&gt;Age&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Bob&lt;/td&gt;
-          &lt;td&gt;27&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Alice&lt;/td&gt;
-          &lt;td&gt;23&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h4 id=&#34;inline-markdown-within-tables&#34;&gt;Inline Markdown within tables
-&lt;/h4&gt;&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Italics&lt;/th&gt;
-          &lt;th&gt;Bold&lt;/th&gt;
-          &lt;th&gt;Code&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;em&gt;italics&lt;/em&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;bold&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;code&gt;code&lt;/code&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;A&lt;/th&gt;
-          &lt;th&gt;B&lt;/th&gt;
-          &lt;th&gt;C&lt;/th&gt;
-          &lt;th&gt;D&lt;/th&gt;
-          &lt;th&gt;E&lt;/th&gt;
-          &lt;th&gt;F&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/td&gt;
-          &lt;td&gt;Phasellus ultricies, sapien non euismod aliquam, dui ligula tincidunt odio, at accumsan nulla sapien eget ex.&lt;/td&gt;
-          &lt;td&gt;Proin eleifend dictum ipsum, non euismod ipsum pulvinar et. Vivamus sollicitudin, quam in pulvinar aliquam, metus elit pretium purus&lt;/td&gt;
-          &lt;td&gt;Proin sit amet velit nec enim imperdiet vehicula.&lt;/td&gt;
-          &lt;td&gt;Ut bibendum vestibulum quam, eu egestas turpis gravida nec&lt;/td&gt;
-          &lt;td&gt;Sed scelerisque nec turpis vel viverra. Vivamus vitae pretium sapien&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;code-blocks&#34;&gt;Code Blocks
-&lt;/h2&gt;&lt;h4 id=&#34;code-block-with-backticks&#34;&gt;Code block with backticks
-&lt;/h4&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;h2 id=&#34;列表使用&#34;&gt;列表使用
+&lt;/h2&gt;&lt;h3 id=&#34;无序列表&#34;&gt;无序列表
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;苹果&lt;/li&gt;
+&lt;li&gt;香蕉&lt;/li&gt;
+&lt;li&gt;橙子
+&lt;ul&gt;
+&lt;li&gt;脐橙&lt;/li&gt;
+&lt;li&gt;血橙&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;有序列表&#34;&gt;有序列表
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;第一步&lt;/li&gt;
+&lt;li&gt;第二步&lt;/li&gt;
+&lt;li&gt;第三步&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;代码展示&#34;&gt;代码展示
+&lt;/h2&gt;&lt;h3 id=&#34;html代码示例&#34;&gt;HTML代码示例
+&lt;/h3&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
 &lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;&amp;lt;!doctype html&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;lang&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;en&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;charset&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;utf-8&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Example HTML5 Document&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;网页标题&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Test&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;你好，世界！&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h4 id=&#34;code-block-indented-with-four-spaces&#34;&gt;Code block indented with four spaces
-&lt;/h4&gt;&lt;pre&gt;&lt;code&gt;&amp;lt;!doctype html&amp;gt;
-&amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt;
-&amp;lt;head&amp;gt;
-  &amp;lt;meta charset=&amp;quot;utf-8&amp;quot;&amp;gt;
-  &amp;lt;title&amp;gt;Example HTML5 Document&amp;lt;/title&amp;gt;
-&amp;lt;/head&amp;gt;
-&amp;lt;body&amp;gt;
-  &amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt;
-&amp;lt;/body&amp;gt;
-&amp;lt;/html&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h4 id=&#34;code-block-with-hugos-internal-highlight-shortcode&#34;&gt;Code block with Hugo&amp;rsquo;s internal highlight shortcode
-&lt;/h4&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;&amp;lt;!doctype html&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;lang&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;en&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;charset&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;utf-8&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Example HTML5 Document&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Test&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;h4 id=&#34;diff-code-block&#34;&gt;Diff code block
-&lt;/h4&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;/div&gt;&lt;h3 id=&#34;python代码示例&#34;&gt;Python代码示例
+&lt;/h3&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
 &lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
@@ -317,173 +367,428 @@
 &lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
 &lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-diff&#34; data-lang=&#34;diff&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;[dependencies.bevy]
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git = &amp;#34;https://github.com/bevyengine/bevy&amp;#34;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rev = &amp;#34;11f52b8c72fc3a568e8bb4a4cd1f3eb025ac2e13&amp;#34;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gd&#34;&gt;- features = [&amp;#34;dynamic&amp;#34;]
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gd&#34;&gt;&lt;/span&gt;&lt;span class=&#34;gi&#34;&gt;+ features = [&amp;#34;jpeg&amp;#34;, &amp;#34;dynamic&amp;#34;]
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;hello_world&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;():&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;你好，世界！&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;vm&#34;&gt;__name__&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;__main__&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;hello_world&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h2 id=&#34;list-types&#34;&gt;List Types
-&lt;/h2&gt;&lt;h4 id=&#34;ordered-list&#34;&gt;Ordered List
-&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;First item&lt;/li&gt;
-&lt;li&gt;Second item&lt;/li&gt;
-&lt;li&gt;Third item&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4 id=&#34;unordered-list&#34;&gt;Unordered List
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;List item&lt;/li&gt;
-&lt;li&gt;Another item&lt;/li&gt;
-&lt;li&gt;And another item&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;nested-list&#34;&gt;Nested list
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;Fruit
-&lt;ul&gt;
-&lt;li&gt;Apple&lt;/li&gt;
-&lt;li&gt;Orange&lt;/li&gt;
-&lt;li&gt;Banana&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Dairy
-&lt;ul&gt;
-&lt;li&gt;Milk&lt;/li&gt;
-&lt;li&gt;Cheese&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;other-elements--abbr-sub-sup-kbd-mark&#34;&gt;Other Elements — abbr, sub, sup, kbd, mark
-&lt;/h2&gt;&lt;p&gt;&lt;abbr title=&#34;Graphics Interchange Format&#34;&gt;GIF&lt;/abbr&gt; is a bitmap image format.&lt;/p&gt;
-&lt;p&gt;H&lt;sub&gt;2&lt;/sub&gt;O&lt;/p&gt;
-&lt;p&gt;X&lt;sup&gt;n&lt;/sup&gt; + Y&lt;sup&gt;n&lt;/sup&gt; = Z&lt;sup&gt;n&lt;/sup&gt;&lt;/p&gt;
-&lt;p&gt;Press &lt;kbd&gt;CTRL&lt;/kbd&gt; + &lt;kbd&gt;ALT&lt;/kbd&gt; + &lt;kbd&gt;Delete&lt;/kbd&gt; to end the session.&lt;/p&gt;
-&lt;p&gt;Most &lt;mark&gt;salamanders&lt;/mark&gt; are nocturnal, and hunt for insects, worms, and other small creatures.&lt;/p&gt;
-&lt;h2 id=&#34;hyperlinked-image&#34;&gt;Hyperlinked image
-&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://google.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;img src=&#34;https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png&#34;
-	
-	
-	
+&lt;/div&gt;&lt;h2 id=&#34;表格使用&#34;&gt;表格使用
+&lt;/h2&gt;&lt;h3 id=&#34;简单表格&#34;&gt;简单表格
+&lt;/h3&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;姓名&lt;/th&gt;
+          &lt;th&gt;年龄&lt;/th&gt;
+          &lt;th&gt;职业&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;张三&lt;/td&gt;
+          &lt;td&gt;25&lt;/td&gt;
+          &lt;td&gt;程序员&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;李四&lt;/td&gt;
+          &lt;td&gt;28&lt;/td&gt;
+          &lt;td&gt;设计师&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;对齐方式&#34;&gt;对齐方式
+&lt;/h3&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;左对齐&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;居中&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;右对齐&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;内容&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;内容&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;内容&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;图片插入&#34;&gt;图片插入
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://sncm123.github.io/p/markdown%E5%86%99%E4%BD%9C%E6%8C%87%E5%8D%97/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg&#34;
+	width=&#34;1000&#34;
+	height=&#34;667&#34;
+	srcset=&#34;https://sncm123.github.io/p/markdown%E5%86%99%E4%BD%9C%E6%8C%87%E5%8D%97/pawel-czerwinski-8uZPynIu-rQ-unsplash_hu16257320553224028419.jpg 480w, https://sncm123.github.io/p/markdown%E5%86%99%E4%BD%9C%E6%8C%87%E5%8D%97/pawel-czerwinski-8uZPynIu-rQ-unsplash_hu4170966261580821530.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;Google&#34;
+		alt=&#34;优美的风景&#34;
 	
 	
-&gt;&lt;/a&gt;&lt;/p&gt;
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;149&#34;
+		data-flex-basis=&#34;359px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;特殊技巧&#34;&gt;特殊技巧
+&lt;/h2&gt;&lt;h3 id=&#34;任务列表&#34;&gt;任务列表
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 完成文档编写&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 审核文档&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 发布文档&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;脚注使用&#34;&gt;脚注使用
+&lt;/h3&gt;&lt;p&gt;这里有一个脚注&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+&lt;h2 id=&#34;写作建议&#34;&gt;写作建议
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;保持简洁&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;使用简单的语法&lt;/li&gt;
+&lt;li&gt;避免过度格式化&lt;/li&gt;
+&lt;li&gt;专注于内容本身&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;结构清晰&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;合理使用标题层级&lt;/li&gt;
+&lt;li&gt;适当分段&lt;/li&gt;
+&lt;li&gt;使用列表归纳要点&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;图文结合&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;适当添加配图&lt;/li&gt;
+&lt;li&gt;使用表格整理数据&lt;/li&gt;
+&lt;li&gt;代码块展示技术内容&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;希望这份指南能帮助你更好地使用Markdown进行创作！&lt;/p&gt;
 &lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;The above quote is excerpted from Rob Pike&amp;rsquo;s &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=PAAkCSZUG1c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;talk&lt;/a&gt; during Gopherfest, November 18, 2015.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;这是脚注的内容。&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</description>
         </item>
         <item>
-        <title>Placeholder Text</title>
-        <link>https://sncm123.github.io/p/placeholder-text/</link>
+        <title>示例文章：写作技巧分享</title>
+        <link>https://sncm123.github.io/p/%E7%A4%BA%E4%BE%8B%E6%96%87%E7%AB%A0%E5%86%99%E4%BD%9C%E6%8A%80%E5%B7%A7%E5%88%86%E4%BA%AB/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://sncm123.github.io/p/placeholder-text/</guid>
-        <description>&lt;img src="https://sncm123.github.io/p/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post Placeholder Text" /&gt;&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
-&lt;p&gt;Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Exierant elisi ambit vivere dedere&lt;/li&gt;
-&lt;li&gt;Duce pollice&lt;/li&gt;
-&lt;li&gt;Eris modo&lt;/li&gt;
-&lt;li&gt;Spargitque ferrea quos palude&lt;/li&gt;
+        <guid>https://sncm123.github.io/p/%E7%A4%BA%E4%BE%8B%E6%96%87%E7%AB%A0%E5%86%99%E4%BD%9C%E6%8A%80%E5%B7%A7%E5%88%86%E4%BA%AB/</guid>
+        <description>&lt;img src="https://sncm123.github.io/p/%E7%A4%BA%E4%BE%8B%E6%96%87%E7%AB%A0%E5%86%99%E4%BD%9C%E6%8A%80%E5%B7%A7%E5%88%86%E4%BA%AB/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post 示例文章：写作技巧分享" /&gt;&lt;p&gt;优秀的博客文章不仅需要有价值的内容，还需要合适的表达方式。本文将分享一些实用的写作技巧。&lt;/p&gt;
+&lt;h2 id=&#34;开篇技巧&#34;&gt;开篇技巧
+&lt;/h2&gt;&lt;h3 id=&#34;1-吸引读者注意&#34;&gt;1. 吸引读者注意
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;使用引人入胜的标题&lt;/li&gt;
+&lt;li&gt;开篇提出问题或悬念&lt;/li&gt;
+&lt;li&gt;用数据或案例引入主题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-明确写作目的&#34;&gt;2. 明确写作目的
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;确定目标读者群&lt;/li&gt;
+&lt;li&gt;设定清晰的主题&lt;/li&gt;
+&lt;li&gt;规划文章结构&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;内容组织&#34;&gt;内容组织
+&lt;/h2&gt;&lt;h3 id=&#34;1-层次分明&#34;&gt;1. 层次分明
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;使用多级标题&lt;/li&gt;
+&lt;li&gt;段落间逻辑连贯&lt;/li&gt;
+&lt;li&gt;适当使用列表和表格&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-案例说明&#34;&gt;2. 案例说明
+&lt;/h3&gt;&lt;p&gt;以下是一个简单的表格示例：&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;写作要素&lt;/th&gt;
+          &lt;th&gt;重要性&lt;/th&gt;
+          &lt;th&gt;说明&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;标题&lt;/td&gt;
+          &lt;td&gt;高&lt;/td&gt;
+          &lt;td&gt;决定点击率&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;开篇&lt;/td&gt;
+          &lt;td&gt;高&lt;/td&gt;
+          &lt;td&gt;决定阅读量&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;内容&lt;/td&gt;
+          &lt;td&gt;极高&lt;/td&gt;
+          &lt;td&gt;决定分享率&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;排版&lt;/td&gt;
+          &lt;td&gt;中&lt;/td&gt;
+          &lt;td&gt;提升体验&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;写作风格&#34;&gt;写作风格
+&lt;/h2&gt;&lt;h3 id=&#34;1-语言表达&#34;&gt;1. 语言表达
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;使用简洁明了的语言&lt;/li&gt;
+&lt;li&gt;避免过多专业术语&lt;/li&gt;
+&lt;li&gt;保持语气的一致性&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-内容充实&#34;&gt;2. 内容充实
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;加入实用的例子&lt;/li&gt;
+&lt;li&gt;提供可操作的建议&lt;/li&gt;
+&lt;li&gt;分享个人经验&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;排版美化&#34;&gt;排版美化
+&lt;/h2&gt;&lt;h3 id=&#34;1-视觉优化&#34;&gt;1. 视觉优化
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;段落长度适中&lt;/li&gt;
+&lt;li&gt;使用醒目的小标题&lt;/li&gt;
+&lt;li&gt;适当添加配图&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-重点突出&#34;&gt;2. 重点突出
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;重要内容加粗&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;关键词斜体&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;代码或专业术语&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;实用建议&#34;&gt;实用建议
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;定期更新&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;保持更新频率&lt;/li&gt;
+&lt;li&gt;关注读者反馈&lt;/li&gt;
+&lt;li&gt;持续改进内容&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;互动交流&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;回复读者评论&lt;/li&gt;
+&lt;li&gt;鼓励分享讨论&lt;/li&gt;
+&lt;li&gt;收集改进建议&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Comas hunc haec pietate fetum procerum dixit&lt;/li&gt;
-&lt;li&gt;Post torum vates letum Tiresia&lt;/li&gt;
-&lt;li&gt;Flumen querellas&lt;/li&gt;
-&lt;li&gt;Arcanaque montibus omnes&lt;/li&gt;
-&lt;li&gt;Quidem et&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h1 id=&#34;vagus-elidunt&#34;&gt;Vagus elidunt
-&lt;/h1&gt;&lt;p&gt;&lt;svg class=&#34;canon&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; overflow=&#34;visible&#34; viewBox=&#34;0 0 496 373&#34; height=&#34;373&#34; width=&#34;496&#34;&gt;&lt;g fill=&#34;none&#34;&gt;&lt;path stroke=&#34;#000&#34; stroke-width=&#34;.75&#34; d=&#34;M.599 372.348L495.263 1.206M.312.633l494.95 370.853M.312 372.633L247.643.92M248.502.92l246.76 370.566M330.828 123.869V1.134M330.396 1.134L165.104 124.515&#34;&gt;&lt;/path&gt;&lt;path stroke=&#34;#ED1C24&#34; stroke-width=&#34;.75&#34; d=&#34;M275.73 41.616h166.224v249.05H275.73zM54.478 41.616h166.225v249.052H54.478z&#34;&gt;&lt;/path&gt;&lt;path stroke=&#34;#000&#34; stroke-width=&#34;.75&#34; d=&#34;M.479.375h495v372h-495zM247.979.875v372&#34;&gt;&lt;/path&gt;&lt;ellipse cx=&#34;498.729&#34; cy=&#34;177.625&#34; rx=&#34;.75&#34; ry=&#34;1.25&#34;&gt;&lt;/ellipse&gt;&lt;ellipse cx=&#34;247.229&#34; cy=&#34;377.375&#34; rx=&#34;.75&#34; ry=&#34;1.25&#34;&gt;&lt;/ellipse&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;The Van de Graaf Canon&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;mane-refeci-capiebant-unda-mulcebat&#34;&gt;Mane refeci capiebant unda mulcebat
-&lt;/h2&gt;&lt;p&gt;Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. &lt;strong&gt;Faces illo pepulere&lt;/strong&gt; tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.&lt;/p&gt;
-&lt;p&gt;Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae vulnus haerentia iuste et exercebat, sui et.&lt;/p&gt;
-&lt;p&gt;Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel &lt;strong&gt;mitis temploque&lt;/strong&gt; vocatus, inque alis, &lt;em&gt;oculos nomen&lt;/em&gt; non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides &lt;strong&gt;parte&lt;/strong&gt;.&lt;/p&gt;</description>
+&lt;h2 id=&#34;写在最后&#34;&gt;写在最后
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;好的文章需要时间打磨，需要耐心完善，更需要真诚的分享。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;期待与大家在写作的路上共同进步！&lt;/p&gt;</description>
         </item>
         <item>
-        <title>Math Typesetting</title>
-        <link>https://sncm123.github.io/p/math-typesetting/</link>
+        <title>数学公式排版指南</title>
+        <link>https://sncm123.github.io/p/%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F%E6%8E%92%E7%89%88%E6%8C%87%E5%8D%97/</link>
         <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://sncm123.github.io/p/math-typesetting/</guid>
-        <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
-&lt;p&gt;In this example we will be using &lt;a class=&#34;link&#34; href=&#34;https://katex.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;KaTeX&lt;/a&gt;&lt;/p&gt;
+        <guid>https://sncm123.github.io/p/%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F%E6%8E%92%E7%89%88%E6%8C%87%E5%8D%97/</guid>
+        <description>&lt;p&gt;在博客中展示数学公式是很多理工科博主的刚需。本文将介绍如何在Hugo中优雅地展示数学公式。&lt;/p&gt;
+&lt;h2 id=&#34;配置说明&#34;&gt;配置说明
+&lt;/h2&gt;&lt;p&gt;本站使用 &lt;a class=&#34;link&#34; href=&#34;https://katex.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;KaTeX&lt;/a&gt; 进行数学公式渲染，具有以下特点：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Create a partial under &lt;code&gt;/layouts/partials/math.html&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Within this partial reference the &lt;a class=&#34;link&#34; href=&#34;https://katex.org/docs/autorender.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Auto-render Extension&lt;/a&gt; or host these scripts locally.&lt;/li&gt;
-&lt;li&gt;Include the partial in your templates like so:&lt;/li&gt;
+&lt;li&gt;渲染速度快&lt;/li&gt;
+&lt;li&gt;显示效果好&lt;/li&gt;
+&lt;li&gt;支持多种数学符号&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3 id=&#34;启用方法&#34;&gt;启用方法
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;创建模板文件&lt;/li&gt;
+&lt;/ol&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
 &lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
 &lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
 &lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;{{&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; or .Params.math .Site.Params.math &lt;span class=&#34;o&#34;&gt;}}&lt;/span&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# 在layouts/partials/下创建math.html&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;{{&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; or .Params.math .Site.Params.math &lt;span class=&#34;o&#34;&gt;}}&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;{{&lt;/span&gt; partial &lt;span class=&#34;s2&#34;&gt;&amp;#34;math.html&amp;#34;&lt;/span&gt; . &lt;span class=&#34;o&#34;&gt;}}&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;{{&lt;/span&gt; end &lt;span class=&#34;o&#34;&gt;}}&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;ul&gt;
-&lt;li&gt;To enable KaTeX globally set the parameter &lt;code&gt;math&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in a project&amp;rsquo;s configuration&lt;/li&gt;
-&lt;li&gt;To enable KaTeX on a per page basis include the parameter &lt;code&gt;math: true&lt;/code&gt; in content files&lt;/li&gt;
+&lt;/div&gt;&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;页面中启用&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;全局启用：在配置文件中设置 &lt;code&gt;math = true&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;单页启用：在文章前置参数中添加 &lt;code&gt;math: true&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Use the online reference of &lt;a class=&#34;link&#34; href=&#34;https://katex.org/docs/supported.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Supported TeX Functions&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;examples&#34;&gt;Examples
-&lt;/h3&gt;&lt;p&gt;Inline math: $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$&lt;/p&gt;
-&lt;p&gt;Block math:
-&lt;/p&gt;
+&lt;h2 id=&#34;公式示例&#34;&gt;公式示例
+&lt;/h2&gt;&lt;h3 id=&#34;行内公式&#34;&gt;行内公式
+&lt;/h3&gt;&lt;p&gt;爱因斯坦质能方程：$E = mc^2$&lt;/p&gt;
+&lt;h3 id=&#34;黄金分割比&#34;&gt;黄金分割比
+&lt;/h3&gt;&lt;p&gt;行内展示：$\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$&lt;/p&gt;
+&lt;h3 id=&#34;块级公式&#34;&gt;块级公式
+&lt;/h3&gt;$$
+e^{i\pi} + 1 = 0
+$$&lt;h3 id=&#34;矩阵表示&#34;&gt;矩阵表示
+&lt;/h3&gt;$$
+\begin{pmatrix}
+a &amp; b \\
+c &amp; d
+\end{pmatrix}
+$$&lt;h3 id=&#34;多行方程组&#34;&gt;多行方程组
+&lt;/h3&gt;$$
+\begin{cases}
+x + y = 1 \\
+x - y = 3
+\end{cases}
+$$&lt;h2 id=&#34;常用数学符号&#34;&gt;常用数学符号
+&lt;/h2&gt;&lt;h3 id=&#34;上标和下标&#34;&gt;上标和下标
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;上标：$x^2$, $e^x$&lt;/li&gt;
+&lt;li&gt;下标：$x_1$, $x_2$&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;分数&#34;&gt;分数
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;简单分数：$\frac{1}{2}$&lt;/li&gt;
+&lt;li&gt;连分数：$\frac{1}{1+\frac{1}{2}}$&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;求和与积分&#34;&gt;求和与积分
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;求和：$\sum_{i=1}^n i^2$&lt;/li&gt;
+&lt;li&gt;积分：$\int_0^1 x^2 dx$&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;希腊字母&#34;&gt;希腊字母
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;$\alpha$, $\beta$, $\gamma$&lt;/li&gt;
+&lt;li&gt;$\Phi$, $\Psi$, $\Omega$&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;使用技巧&#34;&gt;使用技巧
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;
 $$
- \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } 
-$$</description>
+   F = ma \tag{1}
+   $$&lt;/li&gt;
+&lt;li&gt;
+$$
+   \begin{aligned}
+   x &amp;= a + b \\
+   y &amp;= b + c
+   \end{aligned}
+   $$&lt;/li&gt;
+&lt;li&gt;
+$$
+   \vec{F} = m\vec{a}
+   $$&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;注意事项&#34;&gt;注意事项
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;检查公式语法&lt;/li&gt;
+&lt;li&gt;预览渲染效果&lt;/li&gt;
+&lt;li&gt;注意移动端显示&lt;/li&gt;
+&lt;li&gt;控制公式复杂度&lt;/li&gt;
+&lt;/ol&gt;</description>
         </item>
         <item>
-        <title>Emoji Support</title>
-        <link>https://sncm123.github.io/p/emoji-support/</link>
+        <title>Hugo中的表情符号使用指南</title>
+        <link>https://sncm123.github.io/p/hugo%E4%B8%AD%E7%9A%84%E8%A1%A8%E6%83%85%E7%AC%A6%E5%8F%B7%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://sncm123.github.io/p/emoji-support/</guid>
-        <description>&lt;img src="https://sncm123.github.io/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
-&lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/functions/emojify/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;To enable emoji globally, set &lt;code&gt;enableEmoji&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in your site&amp;rsquo;s &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/getting-started/configuration/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;configuration&lt;/a&gt; and then you can type emoji shorthand codes directly in content files; e.g.&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙈&lt;/span&gt; &lt;code&gt;:see_no_evil:&lt;/code&gt;&lt;/span&gt;  &lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙉&lt;/span&gt; &lt;code&gt;:hear_no_evil:&lt;/code&gt;&lt;/span&gt;  &lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙊&lt;/span&gt; &lt;code&gt;:speak_no_evil:&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;br&gt;
-&lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;http://www.emoji-cheat-sheet.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Emoji cheat sheet&lt;/a&gt; is a useful reference for emoji shorthand codes.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;N.B.&lt;/strong&gt; The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.&lt;/p&gt;
+        <guid>https://sncm123.github.io/p/hugo%E4%B8%AD%E7%9A%84%E8%A1%A8%E6%83%85%E7%AC%A6%E5%8F%B7%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</guid>
+        <description>&lt;img src="https://sncm123.github.io/p/hugo%E4%B8%AD%E7%9A%84%E8%A1%A8%E6%83%85%E7%AC%A6%E5%8F%B7%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Hugo中的表情符号使用指南" /&gt;&lt;p&gt;表情符号已经成为现代网络交流中不可或缺的一部分。在Hugo中，我们有多种方式来启用和使用表情符号。&lt;/p&gt;
+&lt;h2 id=&#34;启用方式&#34;&gt;启用方式
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;全局配置&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在站点配置文件中设置 &lt;code&gt;enableEmoji = true&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;直接在内容中使用emoji短代码&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;模板函数&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;使用 &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/functions/emojify/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; 函数&lt;/li&gt;
+&lt;li&gt;可在模板或&lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;内联短代码&lt;/a&gt;中调用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;常用表情示例&#34;&gt;常用表情示例
+&lt;/h2&gt;&lt;p&gt;&lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙈&lt;/span&gt; &lt;code&gt;:see_no_evil:&lt;/code&gt;&lt;/span&gt;  &lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙉&lt;/span&gt; &lt;code&gt;:hear_no_evil:&lt;/code&gt;&lt;/span&gt;  &lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙊&lt;/span&gt; &lt;code&gt;:speak_no_evil:&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更多实用表情&#34;&gt;更多实用表情
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;写作灵感：✍️ &lt;code&gt;:writing_hand:&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;技术相关：💻 &lt;code&gt;:computer:&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;完成任务：✅ &lt;code&gt;:white_check_mark:&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;重要提示：⚠️ &lt;code&gt;:warning:&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;新想法：💡 &lt;code&gt;:bulb:&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;样式设置&#34;&gt;样式设置
+&lt;/h2&gt;&lt;p&gt;为了确保表情符号在各个平台上显示一致，建议设置合适的字体栈：&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
 &lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
 &lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
 &lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;.emoji {
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;emoji&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;font-family&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Apple&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Color&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Emoji&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              &lt;span class=&#34;n&#34;&gt;Segoe&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;UI&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Emoji&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              &lt;span class=&#34;n&#34;&gt;NotoColorEmoji&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              &lt;span class=&#34;n&#34;&gt;Segoe&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;UI&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Symbol&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              &lt;span class=&#34;n&#34;&gt;Android&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Emoji&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              &lt;span class=&#34;n&#34;&gt;EmojiSymbols&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description>
+&lt;/div&gt;&lt;h2 id=&#34;使用建议&#34;&gt;使用建议
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;适度使用&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;不要过度使用表情符号&lt;/li&gt;
+&lt;li&gt;确保表情符号与内容相关&lt;/li&gt;
+&lt;li&gt;保持专业性&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;注意场合&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;技术文档中谨慎使用&lt;/li&gt;
+&lt;li&gt;轻松话题可以多用一些&lt;/li&gt;
+&lt;li&gt;考虑读者群体&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;兼容性&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;测试不同设备的显示效果&lt;/li&gt;
+&lt;li&gt;准备替代方案&lt;/li&gt;
+&lt;li&gt;关注更新和变化&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;实用资源&#34;&gt;实用资源
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://www.emoji-cheat-sheet.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Emoji速查表&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://unicode.org/emoji/charts/full-emoji-list.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Unicode Emoji列表&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://emojipedia.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Emojipedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
         </item>
         
     </channel>
